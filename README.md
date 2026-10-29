@@ -18,20 +18,6 @@
 
 Finals-ELevate-Merch-Supabase-Xendit — a mobile app built with Android (Native), Flutter, Java (Gradle), Kotlin, iOS (Native).
 
-## 📸 Screenshots
-
-![elevate pin](https://raw.githubusercontent.com/Win1T102/Finals-ELevate-Merch-Supabase-Xendit/main/assets/images/elevate/elevate pin.png)
-
-![elevate shirt](https://raw.githubusercontent.com/Win1T102/Finals-ELevate-Merch-Supabase-Xendit/main/assets/images/elevate/elevate shirt.png)
-
-![elevatebm](https://raw.githubusercontent.com/Win1T102/Finals-ELevate-Merch-Supabase-Xendit/main/assets/images/elevate/elevatebm.png)
-
-![elevatebm2](https://raw.githubusercontent.com/Win1T102/Finals-ELevate-Merch-Supabase-Xendit/main/assets/images/elevate/elevatebm2.png)
-
-![elevatebm3](https://raw.githubusercontent.com/Win1T102/Finals-ELevate-Merch-Supabase-Xendit/main/assets/images/elevate/elevatebm3.png)
-
-![elevatebm4](https://raw.githubusercontent.com/Win1T102/Finals-ELevate-Merch-Supabase-Xendit/main/assets/images/elevate/elevatebm4.png)
-
 ## 🛠️ Tech Stack
 
 ![Android (Native)](https://img.shields.io/badge/Android%20(Native)-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Java (Gradle)](https://img.shields.io/badge/Java%20(Gradle)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![iOS (Native)](https://img.shields.io/badge/iOS%20(Native)-000000?style=for-the-badge&logo=apple&logoColor=white)
